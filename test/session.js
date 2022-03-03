@@ -1975,7 +1975,7 @@ describe('session()', function(){
         })
       })
 
-      describe('.secure', function(){
+      describe.only('.secure', function(){
         var app
 
         before(function () {
