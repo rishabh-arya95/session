@@ -1,5 +1,6 @@
 ---
 framework: mocha
+nodeVersion: 14.17.2
 preRun:
      command:
         - npm install
